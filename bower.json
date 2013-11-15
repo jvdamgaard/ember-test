@@ -1,0 +1,29 @@
+{
+  "name": "ember-test",
+  "version": "0.0.0",
+  "authors": [
+    "jvdamgaard"
+  ],
+  "description": "Test of ember.js",
+  "main": "index.html",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "handlebars": "~1.1.2",
+    "ember": "~1.1.2",
+    "ember-data": "~0.0.14",
+    "lodash": "~2.3.0"
+  }
+}

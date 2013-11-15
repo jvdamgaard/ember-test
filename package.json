@@ -1,0 +1,19 @@
+{
+	"name": "ember-test",
+	"version": "0.0.0",
+	"description": "Test of ember.js",
+	"main": "app.js",
+	"scripts": {
+		"test": "grunt test"
+	},
+	"keywords": [
+		"test"
+	],
+	"author": "jvdamgaard",
+	"license": "MIT",
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-ember-templates": "~0.4.16",
+		"grunt-contrib-watch": "~0.5.3"
+	}
+}
